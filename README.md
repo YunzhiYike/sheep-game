@@ -4,6 +4,8 @@
 
 ### 教程
 
+> 请在 Python3 环境运行
+
 ```shell
 python sheep.py
 ```
